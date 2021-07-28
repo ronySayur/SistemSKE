@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616222151851",
+    "project_id": "sistemske",
+    "storage_bucket": "sistemske.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616222151851:android:4bd45186b3210cce4a53ee",
+        "android_client_info": {
+          "package_name": "com.kerjapraktik.sistemske"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616222151851-1fqnj0q4sag4g0a1nnrmhhriea42240b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4GHC97frebuEvhJlADo3xk1Oq_PJPY5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616222151851-1fqnj0q4sag4g0a1nnrmhhriea42240b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

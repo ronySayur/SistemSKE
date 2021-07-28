@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SistemSKE</string>
+    <string-array name="role">
+        <item>Kasir</item>
+        <item>Operator</item>
+        <item>Marketing</item>
+    </string-array>
+</resources>
+
